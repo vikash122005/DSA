@@ -22,6 +22,6 @@ Also, coffee only lasts so long ☕💻
 
 ---
 
-> Feel free to fork and follow along.  
+> Feel free to fork and follow along.
 > Or just stay for the memes embedded in my commit messages 😅
 
