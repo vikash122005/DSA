@@ -16,7 +16,7 @@ No skipping leg day, and definitely no skipping static arrays!
 
 ## 🤪 Why am I doing this?
 
-Because future me wants to look back and say:  
+Because future me wants to look back and say: 
 _"I came, I saw, I debugged."_ 
 Also, coffee only lasts so long ☕💻
 
