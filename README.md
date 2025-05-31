@@ -14,7 +14,7 @@ No skipping leg day, and definitely no skipping static arrays!
 - 🔜 Next up – Dynamic Arrays (where memory fears the resize) 😈  
 - 💡 Goal – Become strong enough to make even Leetcode tremble 😤
 
-## 🤪 Why am I doing this?
+## 🤪 Why am I doing this? 
 
 Because future me wants to look back and say: 
 _"I came, I saw, I debugged."_ 
