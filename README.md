@@ -7,7 +7,7 @@ This is where I punch arrays, wrestle with linked lists, and high-kick recursion
  
 Every day, I tackle DSA problems **concept-wise** like a gym workout for my brain 🏋️‍♂️.  
 No skipping leg day, and definitely no skipping static arrays! 
- 
+Here is the complete Array problems about top 25 problems.
 ## 📅 Progress Log
 
 - ✅ Static Array – kicked off with slicing, dicing, and inserting like a fruit ninja 🍉✂️  
