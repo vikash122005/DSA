@@ -18,7 +18,7 @@ No skipping leg day, and definitely no skipping static arrays!
 
 Because future me wants to look back and say: 
 _"I came, I saw, I debugged."_  
-Also, coffee only lasts so long ☕💻
+Also, coffee only lasts so long ☕💻 
  
 ---
 
