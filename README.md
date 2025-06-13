@@ -8,6 +8,7 @@ This is where I punch arrays, wrestle with linked lists, and high-kick recursion
 Every day, I tackle DSA problems **concept-wise** like a gym workout for my brain 🏋️‍♂️.  
 No skipping leg day, and definitely no skipping static arrays! 
 the complete Array problems about top 25 problems and now Started working on Linked list its bit hard to understand i don;t know why this concept was new to me but i hape it will get easier.
+Started with singly linked list i guess its fine im improving
 ## 📅 Progress Log
 
 - ✅ Static Array – kicked off with slicing, dicing, and inserting like a fruit ninja 🍉✂️
